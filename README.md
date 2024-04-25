@@ -51,7 +51,7 @@
   <img width="12" />
   <img width="100" src="https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png" />
   <img width="12" />
-  <img width="100" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" />
+  <img width="100" src="https://miro.medium.com/v2/resize:fit:1400/1*F7l1g2JuFmKHZkoMHAFJ8w.png" />
   <img width="12" />
 </div>
 
