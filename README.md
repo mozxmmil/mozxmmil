@@ -49,7 +49,7 @@
   <img width="12" />
   <img width="100" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" />
   <img width="12" />
-  <img width="100" src="https://miro.medium.com/v2/resize:fit:1000/0*8v1xNP18Ovj3wg6K.gif](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+  <img width="100" src="[https://miro.medium.com/v2/resize:fit:1000/0*8v1xNP18Ovj3wg6K.gif](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg](https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png)" />
   <img width="12" />
   <img width="100" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" />
   <img width="12" />
