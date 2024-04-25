@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" />
+  <img width="12" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" />
   <img width="12" />
 </div>
 
