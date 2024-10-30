@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mozammil <br><br>- 🔭 I’m working as Full Stack Web developer<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I Learn New think</p>
+<p align="left">I'm Muzammil <br><br>- 🔭 I’m working as Full Stack Web developer<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I Learn New think</p>
 
 ###
 
